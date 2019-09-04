@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4d6f6fddf3651e041adeba8a0fb93384
+timeCreated: 1465476962
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - AdverPanel: {fileID: 122856, guid: c65a9f2abfcd3cc469f82d1d3f575c86, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

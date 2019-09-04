@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\MangerAdver.cs">
+    <Files>
+      <File FileName="Assets\Script\MangerAdver.cs" Line="74" Column="27" />
+      <File FileName="Assets\Script\GetOnlineData.cs" Line="21" Column="22" />
+      <File FileName="Assets\Script\IntoAdverItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UpdateImage.cs" Line="1" Column="1" />
+      <File FileName="Assets\LitJson\IJsonWrapper.cs" Line="1" Column="1" />
+      <File FileName="Assets\Source\AdverData.json" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
